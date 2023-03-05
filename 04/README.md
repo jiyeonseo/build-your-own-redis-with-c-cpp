@@ -1,0 +1,11 @@
+## Compile
+```
+g++ -Wall -Wextra -O2 -g 03_server.cpp -o server
+g++ -Wall -Wextra -O2 -g 03_client.cpp -o client
+```
+
+## Run
+```
+$ ./server
+$ ./client
+```
